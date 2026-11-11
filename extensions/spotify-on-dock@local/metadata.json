@@ -1,0 +1,8 @@
+{
+    "uuid": "spotify-on-dock@local",
+    "name": "Spotify on Dock",
+    "description": "Spotify mini-player for Dash to Dock",
+    "shell-version": ["48", "49", "50", "51"],
+    "url": "https://github.com/chickenvoices/my-arch",
+    "version": 1.0
+}

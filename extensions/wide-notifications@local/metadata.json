@@ -1,0 +1,8 @@
+{
+  "uuid": "wide-notifications@local",
+  "name": "Wide Notifications (Right Corner)",
+  "description": "Moves notification banners to the top-right corner, widens them, removes the aggressive text truncation, applies a dark translucent style, and plays a particle assemble/dissolve effect.",
+  "shell-version": ["49", "50", "51"],
+  "url": "https://github.com/chickenvoices/my-arch",
+  "version": 1.0
+}

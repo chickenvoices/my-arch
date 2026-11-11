@@ -1,0 +1,71 @@
+.pill-for-spotify-container {
+    margin-left: 6px;
+    margin-right: 4px;
+    border-radius: 6px;
+
+    padding: 0;
+    border: none;
+
+    background-color: transparent;
+}
+
+.pill-for-spotify-box {
+    padding: 0px 6px 0px 0px;
+    spacing: 0px;
+}
+
+.pill-for-spotify-box.vertical {
+    padding: 2px;
+    spacing: 6px;
+}
+
+.pill-for-spotify-art {
+
+    border: none;
+    padding: 0;
+    border-radius: 5px;
+}
+
+.pill-for-spotify-labels-button {
+    background-color: transparent;
+    padding: 0;
+    border: none;
+
+    margin-left: 14px;
+    margin-right: 10px;
+}
+
+.pill-for-spotify-labels {
+    spacing: 0px;
+}
+
+.pill-for-spotify-title {
+
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.pill-for-spotify-artist {
+
+    color: rgba(255, 255, 255, 0.65);
+}
+
+.pill-for-spotify-controls {
+    spacing: 2px;
+}
+
+.pill-for-spotify-ctrl-button {
+    border-radius: 6px;
+    padding: 4px;
+    color: rgba(255, 255, 255, 0.85);
+    background-color: transparent;
+}
+
+.pill-for-spotify-ctrl-button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+    color: #ffffff;
+}
+
+.pill-for-spotify-ctrl-button:active {
+    background-color: rgba(255, 255, 255, 0.25);
+}

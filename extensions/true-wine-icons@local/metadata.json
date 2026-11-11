@@ -1,0 +1,8 @@
+{
+  "uuid": "true-wine-icons@local",
+  "name": "True Wine icons",
+  "description": "Automatically updates .desktop files for Wine applications so Dock icons display correctly",
+  "shell-version": ["48", "49", "50", "51"],
+  "url": "https://github.com/chickenvoices/my-arch",
+  "version": 1.0
+}

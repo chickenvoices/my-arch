@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.true-display-profiles" path="/org/gnome/shell/extensions/true-display-profiles/">
+    <key name="show-indicator" type="b">
+      <default>true</default>
+      <summary>Show Top Bar Icon</summary>
+      <description>Toggle the visibility of the display layouts menu indicator</description>
+    </key>
+    <key name="show-notifications" type="b">
+      <default>true</default>
+      <summary>Show Notifications</summary>
+      <description>Show system notifications for profile and layout events</description>
+    </key>
+
+    <key name="switcher-shortcut" type="as">
+      <default>[]</default>
+      <summary>Profile switcher shortcut</summary>
+      <description>Hold to show a profile picker; release to apply the selected profile</description>
+    </key>
+  </schema>
+</schemalist>

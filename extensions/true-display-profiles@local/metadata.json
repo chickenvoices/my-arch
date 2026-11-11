@@ -1,0 +1,8 @@
+{
+  "uuid": "true-display-profiles@local",
+  "name": "True display profiles",
+  "description": "Natively manage display profiles via top bar and system D-Bus",
+  "shell-version": ["48", "49", "50", "51"],
+  "url": "https://github.com/chickenvoices/my-arch",
+  "version": 1.0
+}
